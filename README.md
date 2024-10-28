@@ -1,6 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
-[![Caros stats](https://github-readme-stats.vercel.app/api?username=CaroAMN)](https://github.com/CaroAMN/github-readme-stats)
+<!--[![Caros stats](https://github-readme-stats.vercel.app/api?username=CaroAMN)](https://github.com/CaroAMN/github-readme-stats)
 <!--
 **CaroAMN/CaroAMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
